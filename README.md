@@ -84,6 +84,7 @@ Claude AI (Anthropic) was used for guidance and code creation.
 - Assisted with modelling in the stratified train/test split
 - Was used for classification, clustering, log transform of income 'Standardscaler' and the elbow and silhouette loop. 
 - Was used for advice and guidance on building Power BI dashboard. 
+- Was used for subheadings and titles. 
 
 Lms.codeinstitute.net (Advanced Data Analysis Libaries) was used for code.  
 - Was used for code using seaborn and matplotlib visualisations 
